@@ -1,7 +1,6 @@
-# structural-topic-model
-structural topic model
+# Structural Topic Model for "Letter to Future Self"
 
-Welcome to the repository for our research paper about "Letter to Future Self". This repository contains the necessary instructions to conduct the structural topic model analysis presented in our paper.
+Welcome to the repository for our research paper about "Letter to Future Self." This repository contains the necessary instructions to conduct the structural topic model analysis presented in our paper.
 
 R Code for Structural Topic Modeling:
 In this repository, you will find the R code required to conduct the structural topic model analysis. We encourage researchers and enthusiasts to use this code to explore our methodology.
